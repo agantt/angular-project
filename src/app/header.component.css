@@ -31,13 +31,13 @@ h1 {
 
 p {
   margin: 0;
-  font-sixe: 0.8rem;
+  font-size: 0.8rem;
   text-wrap: balance;
 }
 
-media (min-width: 768px){
+@media (min-width: 768px){
 header {
-  paddding: 2rem;
+  padding: 2rem;
 }
 img {
   width: 4.5rem;
@@ -46,6 +46,6 @@ img {
 h1 {
   font-size: 1.5rem;
   margin: 0;
-  pading: 0;
+  padding: 0;
   }
 }
